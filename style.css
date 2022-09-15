@@ -11,6 +11,7 @@ body{
   background-size: cover;
   color: white;
   font-family:'Oxanium' , sans-serif;
+  overflow-x: hidden;
 }
 .offcanvas-body, .offcanvas-header{
   background: #0D0D2B;
